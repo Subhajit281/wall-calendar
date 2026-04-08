@@ -6,7 +6,7 @@ A polished wall calendar component built with **React**, **Vite**, and **Tailwin
 
 ## Live Demo
 
-🔗 **[wall-calendar.vercel.app](https://wall-calendar.vercel.app)**
+🔗 **[wall-calendar.vercel.app](https://wall-calendar-subhajit.vercel.app)**
 
 ---
 
