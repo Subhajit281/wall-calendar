@@ -1,4 +1,4 @@
-# Almanac — Interactive Wall Calendar
+# Subhajit's Calendar — Interactive Wall Calendar
 
 A polished wall calendar component built with **React**, **Vite**, and **Tailwind CSS**. Translates the physical wall calendar aesthetic into a fully interactive web component — complete with day range selection, per-month themes, an integrated notes panel, and dark mode.
 
