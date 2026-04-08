@@ -156,7 +156,7 @@ export default function WallCalendar() {
       <div className="fixed top-4 right-4 flex items-center gap-2 z-50 no-print">
         <button
           onClick={() => setDarkMode((d) => !d)}
-          className="w-8 h-8 rounded-full flex items-center justify-center text-sm transition-all duration-200 active:scale-90"
+          className="w-12 h-12 rounded-full flex items-center justify-center text-2xl transition-all duration-200 active:scale-90"
           style={{
             backgroundColor: darkMode ? "#2a2927" : "rgba(255,255,255,0.7)",
             backdropFilter: "blur(8px)",
